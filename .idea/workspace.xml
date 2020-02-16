@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a698a2a-2e8c-4982-9be5-f3200679e09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Group anagram together with class object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/List vs Tuple vs Numpy array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/take first repititive char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dictionary/Ordered Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Group Anagram together.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/take first repititive char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Link List/Identify intersection link node.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashing/Find missing and repeating unsorted.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/Hash Basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/Hash Basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/String sort counting sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/String sort counting sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hashing/lst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hashing/lst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maths/Recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maths/Recursion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Puzzle/I and D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Puzzle/I and D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/Counting Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/Counting Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bitwise Add.py" beforeDir="false" afterPath="$PROJECT_DIR$/BitWise Operations/Bitwise Add.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MD RIJWAN &lt;md1994rijwan@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XLpcxL6FdlkZp2ytbed8lbeJn7" />
@@ -41,6 +32,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BitWise Operations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MD RIJWAN\Desktop\Learning\Python Projects\BitWise Operations" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,11 +51,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Identify intersection link node">
+  <component name="RunManager" selected="Python.Find missing and repeating unsorted">
+    <configuration name="Find missing and repeating unsorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing/Find missing and repeating unsorted.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Identify intersection link node" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Link List" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -78,6 +97,9 @@
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionary" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -119,6 +141,9 @@
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -138,6 +163,9 @@
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -153,35 +181,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Find missing and repeating unsorted" />
         <item itemvalue="Python.Identify intersection link node" />
         <item itemvalue="Python.Ordered Dictionary" />
         <item itemvalue="Python.take first repititive char (1)" />
         <item itemvalue="Python.take first repititive char" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -201,8 +207,17 @@
       <workItem from="1581441357217" duration="7049000" />
       <workItem from="1581526648351" duration="6433000" />
       <workItem from="1581614679898" duration="1822000" />
-      <workItem from="1581755312573" duration="15898000" />
+      <workItem from="1581755312573" duration="16139000" />
+      <workItem from="1581875258434" duration="3075000" />
     </task>
+    <task id="LOCAL-00001" summary="Added hash files and arrays">
+      <created>1581804911010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581804911010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +258,10 @@
       </set>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added hash files and arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added hash files and arrays" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -280,6 +299,7 @@
     <SUITE FILE_PATH="coverage/Python_Projects$Anagram_pair_in_string_array.coverage" NAME="Anagram pair in string array Coverage Results" MODIFIED="1581358353092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/Python_Projects$lst.coverage" NAME="lst Coverage Results" MODIFIED="1581528404919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing" />
     <SUITE FILE_PATH="coverage/Python_Projects$List_vs_Tuple_vs_Numpy_array.coverage" NAME="List vs Tuple vs Numpy array Coverage Results" MODIFIED="1581776252507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/Python_Projects$Find_missing_and_repeating_unsorted.coverage" NAME="Find missing and repeating unsorted Coverage Results" MODIFIED="1581877345618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing" />
     <SUITE FILE_PATH="coverage/Python_Projects$customexceptions.coverage" NAME="customexceptions Coverage Results" MODIFIED="1580839973804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionhandling" />
     <SUITE FILE_PATH="coverage/Python_Projects$start.coverage" NAME="start Coverage Results" MODIFIED="1581446408909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Link List" />
     <SUITE FILE_PATH="coverage/Python_Projects$Identify_intersection_link_node.coverage" NAME="Identify intersection link node Coverage Results" MODIFIED="1581804338666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Link List" />
