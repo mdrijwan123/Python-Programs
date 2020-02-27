@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a698a2a-2e8c-4982-9be5-f3200679e09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/Binary Flips.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Check Panagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Second Repeated String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashing/Second most repeated string with collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Quick Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Merge 2 strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/reverse string having dot join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Link List/LinkedList Slicing Odd Places.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Bubble sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Insertion Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Selection sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/trees_basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Check Panagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Check Panagram.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +55,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Check Panagram">
+  <component name="RunManager" selected="Python.LinkedList Slicing Odd Places">
+    <configuration name="Bubble sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Bubble sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Check Panagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -77,36 +100,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Merge 2 strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Insertion Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Merge 2 strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Quick Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Quick Sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Insertion Sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,17 +122,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Second Repeated String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LinkedList Slicing Odd Places" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Link List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing/Second Repeated String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Link List/LinkedList Slicing Odd Places.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selection sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Selection sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,32 +185,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hashing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hashing/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LinkedList Slicing Odd Places" />
+        <item itemvalue="Python.Bubble sort" />
+        <item itemvalue="Python.Selection sort" />
+        <item itemvalue="Python.Insertion Sort" />
         <item itemvalue="Python.Check Panagram" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.Second Repeated String" />
-        <item itemvalue="Python.Merge 2 strings" />
-        <item itemvalue="Python.Quick Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +214,9 @@
       <workItem from="1581755312573" duration="16139000" />
       <workItem from="1581875258434" duration="3524000" />
       <workItem from="1582218468971" duration="3800000" />
-      <workItem from="1582359101931" duration="13142000" />
+      <workItem from="1582359101931" duration="16775000" />
+      <workItem from="1582568108557" duration="2879000" />
+      <workItem from="1582834602081" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="Added hash files and arrays">
       <created>1581804911010</created>
@@ -220,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581878496376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added hash files and arrays">
+      <created>1582454779880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582454779880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

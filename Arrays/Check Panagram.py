@@ -1,13 +1,3 @@
-# User function Template for python3
-
-''' Your task is to check if the given string is
-	a panagram or not.
-
-	Function Arguments: s (given string)
-	Return Type: boolean
-'''
-
-
 def checkPanagram(s):
     h = [0] * 256
     for i in s:
@@ -26,4 +16,3 @@ if __name__ == '__main__':
             print(1)
         else:
             print(0)
-# } Driver Code Ends
