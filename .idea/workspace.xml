@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a698a2a-2e8c-4982-9be5-f3200679e09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Link List/LinkedList Slicing Odd Places.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Bubble sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Insertion Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Selection sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/trees_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Check Panagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Check Panagram.py" afterDir="false" />
-    </list>
+    <list default="true" id="7a698a2a-2e8c-4982-9be5-f3200679e09b" name="Default Changelist" comment="Added Linked List Files plus Algos" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +118,9 @@
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Link List" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -216,7 +211,7 @@
       <workItem from="1582218468971" duration="3800000" />
       <workItem from="1582359101931" duration="16775000" />
       <workItem from="1582568108557" duration="2879000" />
-      <workItem from="1582834602081" duration="333000" />
+      <workItem from="1582834602081" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="Added hash files and arrays">
       <created>1581804911010</created>
@@ -239,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582454779880</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Linked List Files plus Algos">
+      <created>1582835069919</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582835069919</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +284,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added hash files and arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added hash files and arrays" />
+    <MESSAGE value="Added Linked List Files plus Algos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Linked List Files plus Algos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
