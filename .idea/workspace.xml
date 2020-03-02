@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a698a2a-2e8c-4982-9be5-f3200679e09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps/Basics.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trees/trees_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/trees_basic.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +52,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.trees_basic">
+  <component name="RunManager" selected="Python.Basics">
+    <configuration name="BS-Trees Insert-delete-height-number nodes-all display" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heaps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heaps/Basics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Bubble sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,28 +113,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insertion Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Insertion Sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="LinkedList Slicing Odd Places" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,28 +127,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Link List/LinkedList Slicing Odd Places.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Selection sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Selection sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,6 +161,9 @@
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -183,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Basics" />
+        <item itemvalue="Python.BS-Trees Insert-delete-height-number nodes-all display" />
         <item itemvalue="Python.trees_basic" />
         <item itemvalue="Python.LinkedList Slicing Odd Places" />
         <item itemvalue="Python.Bubble sort" />
-        <item itemvalue="Python.Selection sort" />
-        <item itemvalue="Python.Insertion Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +212,7 @@
       <workItem from="1582568108557" duration="2879000" />
       <workItem from="1582834602081" duration="564000" />
       <workItem from="1583073129989" duration="3091000" />
+      <workItem from="1583167630453" duration="4066000" />
     </task>
     <task id="LOCAL-00001" summary="Added hash files and arrays">
       <created>1581804911010</created>
