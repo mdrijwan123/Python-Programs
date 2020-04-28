@@ -2,6 +2,8 @@
 # First, rules intended to apply in all subdirectories.
 # These contain no slash, or only a trailing slash.
 *.project
+*.sol
+*.pyproj
 *.pydevproject
 *.cover
 *.iml
