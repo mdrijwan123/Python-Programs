@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1e43a0cd-f3b3-4816-bc47-b8d2b16b3b31}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Arrays\Anagram pair in string array.py" />
+    <Compile Include="Arrays\Binary Flips.py" />
+    <Compile Include="Arrays\Check Panagram.py" />
+    <Compile Include="Arrays\find pair of number with sum sorted array.py" />
+    <Compile Include="Arrays\Give the max quad array.py" />
+    <Compile Include="Arrays\Group anagram together with class object.py" />
+    <Compile Include="Arrays\isPrime.py" />
+    <Compile Include="Arrays\List vs Tuple vs Numpy array.py" />
+    <Compile Include="Arrays\min_cost from origin position.py" />
+    <Compile Include="Arrays\Run Length encoding.py" />
+    <Compile Include="Arrays\Swap Minimum.py" />
+    <Compile Include="Arrays\take first repititive char.py" />
+    <Compile Include="Arrays\test.py" />
+    <Compile Include="basicprograms\areaofacircle.py" />
+    <Compile Include="basicprograms\averageofnumbers.py" />
+    <Compile Include="basicprograms\studentdetails.py" />
+    <Compile Include="basics\bytesandarrays.py" />
+    <Compile Include="basics\dicttype.py" />
+    <Compile Include="basics\hello.py" />
+    <Compile Include="basics\listtype.py" />
+    <Compile Include="basics\numerictypes.py" />
+    <Compile Include="basics\rangetype.py" />
+    <Compile Include="basics\settype.py" />
+    <Compile Include="basics\stringtype.py" />
+    <Compile Include="basics\test.py" />
+    <Compile Include="basics\tupletype.py" />
+    <Compile Include="BitWise Operations\Bitwise Add.py" />
+    <Compile Include="commandlinearguments\demo.py" />
+    <Compile Include="commandlinearguments\product.py" />
+    <Compile Include="controlstatements\assert.py" />
+    <Compile Include="controlstatements\breakdemo.py" />
+    <Compile Include="controlstatements\continuedemo.py" />
+    <Compile Include="controlstatements\evenorodd.py" />
+    <Compile Include="controlstatements\forloop.py" />
+    <Compile Include="controlstatements\multiplicationtable.py" />
+    <Compile Include="controlstatements\oddnumbers.py" />
+    <Compile Include="controlstatements\productoflist.py" />
+    <Compile Include="controlstatements\whiledemo.py" />
+    <Compile Include="dateandtime\combinedateandtime.py" />
+    <Compile Include="dateandtime\dtdemo.py" />
+    <Compile Include="dateandtime\sortdates.py" />
+    <Compile Include="dboperations\createEmp.py" />
+    <Compile Include="dboperations\deleteEmp.py" />
+    <Compile Include="dboperations\readEmp.py" />
+    <Compile Include="Dictionary\Ordered Dictionary.py" />
+    <Compile Include="encapsulation\student.py" />
+    <Compile Include="exceptionhandling\assertdemo.py" />
+    <Compile Include="exceptionhandling\customexceptions.py" />
+    <Compile Include="exceptionhandling\demo.py" />
+    <Compile Include="exceptionhandling\loggingdemo.py" />
+    <Compile Include="exceptionhandling\try.py" />
+    <Compile Include="files\pickledump.py" />
+    <Compile Include="files\pickleload.py" />
+    <Compile Include="files\read.py" />
+    <Compile Include="files\student.py" />
+    <Compile Include="files\write.py" />
+    <Compile Include="functions\average.py" />
+    <Compile Include="functions\calc.py" />
+    <Compile Include="functions\cubelambda.py" />
+    <Compile Include="functions\customgenerator.py" />
+    <Compile Include="functions\doubledecor.py" />
+    <Compile Include="functions\doubleusingmap.py" />
+    <Compile Include="functions\evenoroddfilter.py" />
+    <Compile Include="functions\evenoroddlambda.py" />
+    <Compile Include="functions\factorial.py" />
+    <Compile Include="functions\funasaparameter.py" />
+    <Compile Include="functions\greeting.py" />
+    <Compile Include="functions\listfun.py" />
+    <Compile Include="functions\localandglobal.py" />
+    <Compile Include="functions\mymath.py" />
+    <Compile Include="functions\returnfunction.py" />
+    <Compile Include="functions\stringdecor.py" />
+    <Compile Include="functions\sumlambda.py" />
+    <Compile Include="functions\sumusingreduce.py" />
+    <Compile Include="functions\usesmodule.py" />
+    <Compile Include="functions\varargs.py" />
+    <Compile Include="Hashing\Find missing and repeating unsorted.py" />
+    <Compile Include="Hashing\Group Anagram together.py" />
+    <Compile Include="Hashing\Hash Basic.py" />
+    <Compile Include="Hashing\lst.py" />
+    <Compile Include="Hashing\Second most repeated string with collections.py" />
+    <Compile Include="Hashing\Second Repeated String.py" />
+    <Compile Include="Hashing\String sort counting sort.py" />
+    <Compile Include="Hashing\take first repititive char.py" />
+    <Compile Include="Hashing\test.py" />
+    <Compile Include="inheritance\bmw.py" />
+    <Compile Include="Link List\Identify intersection link node.py" />
+    <Compile Include="Link List\LinkedList Slicing Odd Places.py" />
+    <Compile Include="Link List\Remove Duplicates.py" />
+    <Compile Include="Link List\start.py" />
+    <Compile Include="listcomprehension\commonelements.py" />
+    <Compile Include="listcomprehension\cubesofnumbers.py" />
+    <Compile Include="listcomprehension\evennumbers.py" />
+    <Compile Include="listcomprehension\productoflists.py" />
+    <Compile Include="Maths\Recursion.py" />
+    <Compile Include="multithreading\bookmybus.py" />
+    <Compile Include="multithreading\mainthread.py" />
+    <Compile Include="multithreading\ThreadCommunicationUsingAFlag.py" />
+    <Compile Include="multithreading\ThreadCommunicationUsingWaitAndNotify.py" />
+    <Compile Include="multithreading\usingclass.py" />
+    <Compile Include="multithreading\usingFunction.py" />
+    <Compile Include="multithreading\usingsubclass.py" />
+    <Compile Include="networking\downloadimage.py" />
+    <Compile Include="networking\emailclient.py" />
+    <Compile Include="networking\fileclient.py" />
+    <Compile Include="networking\fileserver.py" />
+    <Compile Include="networking\tcpipclient.py" />
+    <Compile Include="networking\tcpipserver.py" />
+    <Compile Include="networking\urllibdemo.py" />
+    <Compile Include="oopsbasics\course.py" />
+    <Compile Include="oopsbasics\innerdemo.py" />
+    <Compile Include="oopsbasics\objectcounter.py" />
+    <Compile Include="oopsbasics\product.py" />
+    <Compile Include="oopsbasics\programmer.py" />
+    <Compile Include="oopsbasics\student.py" />
+    <Compile Include="operators\arithmeticoperators.py" />
+    <Compile Include="operators\assignmentoperators.py" />
+    <Compile Include="operators\comparisonoperators.py" />
+    <Compile Include="operators\logicaloperators.py" />
+    <Compile Include="polymorphism\ducktypingdemo.py" />
+    <Compile Include="polymorphism\flightengine.py" />
+    <Compile Include="polymorphism\plusoperator.py" />
+    <Compile Include="printandinput\inputfun.py" />
+    <Compile Include="printandinput\printfun.py" />
+    <Compile Include="Puzzle\I and D.py" />
+    <Compile Include="Recursion and Backtracking\binary_num.py" />
+    <Compile Include="Recursion and Backtracking\recursion_memoisation.py" />
+    <Compile Include="Recursion and Backtracking\recursion_simple_sorted_array_or_not.py" />
+    <Compile Include="Recursion and Backtracking\Tower of hanoi.py" />
+    <Compile Include="regularexpressions\Eliminate Name in gmail.py" />
+    <Compile Include="regularexpressions\redemo.py" />
+    <Compile Include="regularexpressions\test.py" />
+    <Compile Include="Sorting\Bubble sort.py" />
+    <Compile Include="Sorting\Counting Sort.py" />
+    <Compile Include="Sorting\Insertion Sort.py" />
+    <Compile Include="Sorting\Quick Sort.py" />
+    <Compile Include="Sorting\Selection sort.py" />
+    <Compile Include="Strings\Merge 2 strings.py" />
+    <Compile Include="Strings\reverse string having dot join.py" />
+    <Compile Include="Trees\BS-Trees Insert-delete-height-number nodes-all display.py" />
+    <Compile Include="Trees\Heaps From Scratch.py" />
+    <Compile Include="Trees\trees_basic.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="files\myfile.txt" />
+    <Content Include="networking\python.html" />
+    <Content Include="networking\python.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Arrays" />
+    <Folder Include="basicprograms" />
+    <Folder Include="basics" />
+    <Folder Include="BitWise Operations" />
+    <Folder Include="commandlinearguments" />
+    <Folder Include="controlstatements" />
+    <Folder Include="dateandtime" />
+    <Folder Include="dboperations" />
+    <Folder Include="Dictionary" />
+    <Folder Include="encapsulation" />
+    <Folder Include="exceptionhandling" />
+    <Folder Include="files" />
+    <Folder Include="functions" />
+    <Folder Include="Hashing" />
+    <Folder Include="inheritance" />
+    <Folder Include="Link List" />
+    <Folder Include="listcomprehension" />
+    <Folder Include="Maths" />
+    <Folder Include="multithreading" />
+    <Folder Include="networking" />
+    <Folder Include="oopsbasics" />
+    <Folder Include="operators" />
+    <Folder Include="polymorphism" />
+    <Folder Include="printandinput" />
+    <Folder Include="Puzzle" />
+    <Folder Include="Recursion and Backtracking" />
+    <Folder Include="regularexpressions" />
+    <Folder Include="Sorting" />
+    <Folder Include="Strings" />
+    <Folder Include="Trees" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
