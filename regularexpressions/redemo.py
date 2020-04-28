@@ -1,7 +1,7 @@
 import re
-str = "Take 1 up 1-3-2019 One 23 idea.One idea 45 at a Time 12-11-2020"
+str = "Take 1 up 1-3-2019 One On 23 idea.One Once Onnnee Onceee Two idea owl 45 at a Time 12-11-2020"
 result = re.search(r'o\w', str)
-print(result)
+print("Search r'o\w': ",result)
 
 result = re.findall(r'o\w\w', str)
 print(result)

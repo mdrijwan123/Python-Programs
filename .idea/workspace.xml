@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a698a2a-2e8c-4982-9be5-f3200679e09b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Heaps/Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Swap Minimum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/isPrime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Link List/Remove Duplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Heaps From Scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regularexpressions/Eliminate Name in gmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regularexpressions/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trees/trees_basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/trees_basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regularexpressions/redemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/regularexpressions/redemo.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,40 +54,57 @@
   </component>
   <component name="ProjectId" id="1XLpcxL6FdlkZp2ytbed8lbeJn7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BitWise Operations" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MD RIJWAN\Desktop\Learning\Python Projects\BitWise Operations" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Basics">
-    <configuration name="BS-Trees Insert-delete-height-number nodes-all display" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Bitwise Add">
+    <configuration name="Bitwise Add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BitWise Operations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BitWise Operations/Bitwise Add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Heaps From Scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/BS-Trees Insert-delete-height-number nodes-all display.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/Heaps From Scratch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,26 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heaps" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Heaps/Basics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Bubble sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Swap Minimum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,34 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sorting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sorting/Bubble sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LinkedList Slicing Odd Places" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Link List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Link List/LinkedList Slicing Odd Places.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/Swap Minimum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,20 +157,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trees_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="forloop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controlstatements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trees/trees_basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controlstatements/forloop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Basics" />
-        <item itemvalue="Python.BS-Trees Insert-delete-height-number nodes-all display" />
-        <item itemvalue="Python.trees_basic" />
-        <item itemvalue="Python.LinkedList Slicing Odd Places" />
-        <item itemvalue="Python.Bubble sort" />
+        <item itemvalue="Python.Bitwise Add" />
+        <item itemvalue="Python.forloop" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.Swap Minimum" />
+        <item itemvalue="Python.Heaps From Scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +229,8 @@
       <workItem from="1582834602081" duration="564000" />
       <workItem from="1583073129989" duration="3091000" />
       <workItem from="1583167630453" duration="4066000" />
+      <workItem from="1583998835635" duration="15333000" />
+      <workItem from="1584428768148" duration="4662000" />
     </task>
     <task id="LOCAL-00001" summary="Added hash files and arrays">
       <created>1581804911010</created>
@@ -277,23 +295,28 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added hash files and arrays" />
     <MESSAGE value="Added Linked List Files plus Algos" />
     <option name="LAST_COMMIT_MESSAGE" value="Added Linked List Files plus Algos" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="13" key="SettingsEditor" timestamp="1587287907799">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1587287907799" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -345,33 +368,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Projects$settype.coverage" NAME="settype Coverage Results" MODIFIED="1580836312305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Bitwise_Add.coverage" NAME="Bitwise Add Coverage Results" MODIFIED="1581358251176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Binary_Flips.coverage" NAME="Binary Flips Coverage Results" MODIFIED="1582224432624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$bookmybus.coverage" NAME="bookmybus Coverage Results" MODIFIED="1580841056600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multithreading" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Anagram_pair_in_string_array.coverage" NAME="Anagram pair in string array Coverage Results" MODIFIED="1581358353092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Find_missing_and_repeating_unsorted.coverage" NAME="Find missing and repeating unsorted Coverage Results" MODIFIED="1581877345618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing" />
-    <SUITE FILE_PATH="coverage/Python_Projects$customexceptions.coverage" NAME="customexceptions Coverage Results" MODIFIED="1580839973804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exceptionhandling" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Identify_intersection_link_node.coverage" NAME="Identify intersection link node Coverage Results" MODIFIED="1581804338666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Link List" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Give_the_max_quad_array.coverage" NAME="Give the max quad array Coverage Results" MODIFIED="1581157556787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$I_and_D.coverage" NAME="I and D Coverage Results" MODIFIED="1581536212220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Puzzle" />
-    <SUITE FILE_PATH="coverage/Python_Projects$recursion_memoisation.coverage" NAME="recursion_memoisation Coverage Results" MODIFIED="1581158320759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion and Backtracking" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Quick_Sort.coverage" NAME="Quick Sort Coverage Results" MODIFIED="1582385343653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sorting" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Hash_Basic.coverage" NAME="Hash Basic Coverage Results" MODIFIED="1581528520973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Recursion.coverage" NAME="Recursion Coverage Results" MODIFIED="1581531761499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths" />
-    <SUITE FILE_PATH="coverage/Python_Projects$recursion_simple_sorted_array_or_not.coverage" NAME="recursion_simple_sorted_array_or_not Coverage Results" MODIFIED="1581155609011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion and Backtracking" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Merge_2_strings.coverage" NAME="Merge 2 strings Coverage Results" MODIFIED="1582394375643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Strings" />
-    <SUITE FILE_PATH="coverage/Python_Projects$bytesandarrays.coverage" NAME="bytesandarrays Coverage Results" MODIFIED="1580835740473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/Python_Projects$min_cost_from_origin_position.coverage" NAME="min_cost from origin position Coverage Results" MODIFIED="1581448270628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Run_Length_encoding.coverage" NAME="Run Length encoding Coverage Results" MODIFIED="1581278634425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$lst.coverage" NAME="lst Coverage Results" MODIFIED="1581528404919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing" />
-    <SUITE FILE_PATH="coverage/Python_Projects$List_vs_Tuple_vs_Numpy_array.coverage" NAME="List vs Tuple vs Numpy array Coverage Results" MODIFIED="1581776252507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$start.coverage" NAME="start Coverage Results" MODIFIED="1581446408909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Link List" />
-    <SUITE FILE_PATH="coverage/Python_Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1581789762768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
-    <SUITE FILE_PATH="coverage/Python_Projects$binary_num.coverage" NAME="binary_num Coverage Results" MODIFIED="1581276002297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion and Backtracking" />
-    <SUITE FILE_PATH="coverage/Python_Projects$Tower_of_hanoi.coverage" NAME="Tower of hanoi Coverage Results" MODIFIED="1581249824763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion and Backtracking" />
-    <SUITE FILE_PATH="coverage/Python_Projects$String_sort_counting_sort.coverage" NAME="String sort counting sort Coverage Results" MODIFIED="1581530161012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hashing" />
   </component>
 </project>

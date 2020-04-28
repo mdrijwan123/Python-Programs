@@ -1,2 +1,9 @@
-l = [[1,2,3],[4,5,33,2],[7,88,9,6]]
-print(len(l))
+arr = [5,4,3,2]
+b = iter(arr)
+print(b)
+while True:
+    try:
+        e = next(b)
+        print(e)
+    except StopIteration:
+        break
