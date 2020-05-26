@@ -8,4 +8,3 @@ class Node:
 t = Node(5)
 t.left = Node(4)
 t.right = Node(7)
-
