@@ -1,4 +1,5 @@
-from collections import Counter,OrderedDict
+from collections import Counter, OrderedDict
+
 
 def main():
     t = int(input())
@@ -22,7 +23,7 @@ def main():
             if cnt_h[j] > 1:
                 rep_item = j
                 break
-        print(rep_item,",",no_in_list)
+        print(rep_item, ",", no_in_list)
 
 
 main()

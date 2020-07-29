@@ -2,10 +2,8 @@ def main():
     arr = [1, 4, 1, 2, 7, 5, 2]
     n = len(arr)
     h = {}
-    for i in range(9):
-        h[i] = 0
     for i in arr:
-        h[i] = h.get(i) + 1
+        h[i] = h.get(i, 0) + 1
     sum = 0
     for j in h.keys():
         sum += h[j]

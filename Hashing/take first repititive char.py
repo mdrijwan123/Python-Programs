@@ -1,9 +1,12 @@
 from collections import Counter
+
+
 def main():
     t = int(input())
     for _ in range(t):
         arr = input()
         h = Counter(arr)
+        print(h)
         cnt = 0
         for j in arr:
             if h[j] > 1:
@@ -19,4 +22,3 @@ def main():
 
 
 main()
-

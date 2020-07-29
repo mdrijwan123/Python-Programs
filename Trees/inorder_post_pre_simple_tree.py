@@ -6,8 +6,8 @@ class Node:
 
 
 class Tree:
-    def __init__(self, root):
-        self.root = Node(root)
+    def __init__(self, data):
+        self.root = Node(data)
 
     def print_inorder(self,traverse_type):
         if traverse_type == "inorder":

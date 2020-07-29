@@ -27,7 +27,7 @@ def partition(arr, low, high):
     return right
 
 
-A = [4,5,3,7,2]
+A = [4, 5, 3, 7, 2]
 print(A)
-quickSort(A,0,len(A)-1)
+quickSort(A, 0, len(A) - 1)
 print(A)

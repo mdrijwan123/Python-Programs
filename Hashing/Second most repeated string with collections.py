@@ -5,4 +5,4 @@ for _ in range(t):
     arr = list(map(str,input().split()))
     h = {}
     h = Counter(arr)
-    print(h.most_common()[1][0])
+    print(h.most_common()[0][1])

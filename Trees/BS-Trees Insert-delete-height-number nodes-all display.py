@@ -27,20 +27,20 @@ class Tree:
     def display(self, root):
         if root is not None:
             self.display(root.left)
-            print(root.data)
+            print(root.data, end=" ")
             self.display(root.right)
 
-    def search(self,root,data):
+    def search(self, root, data):
         if root is None:
-            print("Not Found")
+            print("\nNot Found")
             return
         if root.data is data:
-            print("Found")
+            print("\nFound")
             return
         if data > root.data:
-            self.search(root.right,data)
+            self.search(root.right, data)
         elif data < root.data:
-            self.search(root.left,data)
+            self.search(root.left, data)
 
 
 if __name__ == "__main__":
@@ -51,4 +51,4 @@ if __name__ == "__main__":
     t.insert(r, 3)
     t.insert(r, 7)
     t.display(r)
-    t.search(r,8)
+    t.search(r, 8)

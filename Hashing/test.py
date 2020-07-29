@@ -1,3 +1,8 @@
-s = "hello, how"
+s = 'abcdeab'
+h = {}
 for i in s:
-    print(i.upper())
+    h[i] = h.get(i, 0) + 1
+for i in h.keys():
+    if h[i] > 1:
+        print(i)
+        break
