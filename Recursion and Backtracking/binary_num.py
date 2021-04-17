@@ -4,4 +4,4 @@ def binary(n):
     binary(n//2)
     print(n%2,end="")
 
-binary(15)
+binary(8)

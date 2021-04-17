@@ -1,3 +1,8 @@
+import time
+import sys
+print(sys.getrecursionlimit())
+sys.setrecursionlimit(1500)
+
 def quickSort(arr, low, high):
     if low < high:
         p = partition(arr, low, high)
@@ -27,7 +32,10 @@ def partition(arr, low, high):
     return right
 
 
-A = [4, 5, 3, 7, 2]
-print(A)
+#A = [n for n in range(0, 990)]
+A = [n for n in range(999, 0, -1)]
+#print(A)
+start = time.time()
 quickSort(A, 0, len(A) - 1)
-print(A)
+print(time.time() - start)
+#print(A)
